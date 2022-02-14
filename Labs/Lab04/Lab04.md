@@ -1,7 +1,7 @@
 ## Lab 04
 
-- Name:
-- Email
+- Name: Jacob Worst 
+- Email: worst.5@wright.edu
 
 ## Part 1 Answers
 
